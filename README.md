@@ -2,7 +2,8 @@
 ## No momento estudando para ser um Dev fullstack !
 <div align="center">
   <a href="https://github.com/iGabeReis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iGabeReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iGabeReis&layout=compact&langs_count=7&theme=react" />
+ 
+  <img align="center,right" alt="Gabe-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iGabeReis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center,right" alt="Gabe-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif">
       </div>
   <div style="display: inline_block"><br>
@@ -11,6 +12,7 @@
   <img align="center" alt="Gabe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Gabe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+  
   
   ##
   
