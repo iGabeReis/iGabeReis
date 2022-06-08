@@ -1,5 +1,4 @@
 ## Olá! eu sou o Gabriel Reis.<img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://c.tenor.com/uig4MIIEykoAAAAM/welcome-anime.gif">
-## No momento estudando para ser um Dev fullstack !
 <div align="center">
   <a href="https://github.com/iGabeReis">
  
